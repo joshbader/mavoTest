@@ -9,10 +9,6 @@
 		{
 			"image": "http://placehold.it/325x250",
 			"story": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br data-mce-bogus=\"1\">"
-		},
-		{
-			"image": "http://placehold.it/325x250",
-			"story": "\n                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n                "
 		}
 	],
 	"two_column_story_b": [
